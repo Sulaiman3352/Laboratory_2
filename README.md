@@ -543,7 +543,7 @@ git commit -m "feat: Lab 2 – DOM manipulation and prototype inheritance"
 
 # Push both branches to GitHub
 git remote add origin https://github.com/Sulaiman3352/Laboratory_2.git
-git push -u origin main
+git push -u origin master
 git push -u origin lab2-js
 ```
 
